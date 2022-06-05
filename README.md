@@ -1,7 +1,7 @@
-# simpleCollegeInfoSystem
+## simpleCollegeInfoSystem
 A very basic level College Information System which facilitates CRUD operations. The project is built using MERN Stack.
 
-# To run the project locally :
+## To run the project locally :
 - Clone the repo https://github.com/jdx-code/simpleCollegeInfoSystem.git
 - 
 - Open two terminal windows and go to the following directories : 
