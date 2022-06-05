@@ -7,8 +7,8 @@ A very basic level College Information System which facilitates CRUD operations.
    /simpleCollegeInfoSystem/client
    /simpleCollegeInfoSystem/server 
     
-- In client directory type
-##     npm install        // this will install all the necessary packages in the client side as listed on the package.json file
+## In client directory type
+--    npm install        // this will install all the necessary packages in the client side as listed on the package.json file
         
 - In server directory type 
 ##     npm install        // this will install all the necessary packages in the server side as listed on the package.json file
